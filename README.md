@@ -20,9 +20,11 @@ simple, segura y eficiente.
 
 - Gestión de usuarios y roles.
 - Administración de sacramentos.
+- Gestion contable 
 - Registro y organización de información parroquial.
 - Aplicación multiplataforma para Windows, Linux y macOS.
 - Actualizaciones automáticas mediante GitHub Releases.
+- Modo claro y oscuro
 
 ## Descargas
 
@@ -31,6 +33,9 @@ Puedes descargar la última versión desde:
 ➡️ **Releases:**  
 https://github.com/ketopi/Ecclesia-Desktop-App/releases
 
+## 👤 Autor
+
+Desarrollado por **Kevin Torrez Pillco** 🚀
 
 
 ---
