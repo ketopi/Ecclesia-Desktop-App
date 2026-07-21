@@ -31,13 +31,7 @@ Puedes descargar la última versión desde:
 ➡️ **Releases:**  
 https://github.com/ketopi/Ecclesia-Desktop-App/releases
 
-## Tecnologías
 
-- Electron
-- React
-- TypeScript
-- Vite
-- SQLite
 
 ---
 
