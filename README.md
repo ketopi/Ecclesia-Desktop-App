@@ -1,7 +1,7 @@
 # Ecclesia Desktop App
 <div align="center">
-  <img src="./img1.jpg" alt="Ecclesia Desktop App" width="450"/>
-  <img src="./img2.jpg" alt="Ecclesia Desktop App" width="450"/>
+  <img src="./img1.jpg" alt="Ecclesia Desktop App" width="350"/>
+  <img src="./img2.jpg" alt="Ecclesia Desktop App" width="350"/>
   
   
   
