@@ -1,48 +1,74 @@
-# Ecclesia Desktop App
+# ✨ Ecclesia Desktop
+
 <div align="center">
-  <img src="./img1.jpg" alt="Ecclesia Desktop App" width="350"/>
-  <img src="./img2.jpg" alt="Ecclesia Desktop App" width="350"/>
-  
-  
-  
-  <h3>Sistema Moderno de Gestión Parroquial</h3>
 
-  <p>Aplicación de escritorio diseñada para optimizar y facilitar la administración parroquial, gestionando usuarios, sacramentos, finanzas y procesos internos de manera simple, segura y eficiente.</p>
+<img src="./img1.jpg" alt="Ecclesia Desktop App" width="400"/>
+<img src="./img2.jpg" alt="Ecclesia Desktop App" width="400"/>
 
-  <!-- Insignias de tecnología -->
-  
+<br/>
+
+<h2>⛪ Sistema Moderno de Gestión Parroquial</h2>
+
+<p>
+Una aplicación de escritorio creada para acompañar la transformación digital de las comunidades parroquiales,
+brindando una experiencia moderna, organizada y sencilla para la gestión diaria.
+</p>
+
+<br/>
+
+<a href="https://github.com/ketopi/Ecclesia-Desktop-App/releases">
+  📥 Descargar Ecclesia
+</a>
+
 </div>
 
----
-
-##  Características Principales
-
-- **👥 Gestión de Usuarios y Roles:** Control de accesos y permisos seguros dentro del sistema.
-- **⛪ Administración de Sacramentos:** Registro detallado de bautizos, confirmaciones, matrimonios y actas.
-- **💰 Gestión Contable:** Control transparente de ingresos, egresos y finanzas parroquiales.
-- **📂 Organización Parroquial:** Centralización y resguardo de la información de la comunidad.
-- **💻 Multiplataforma:** Compilación nativa y fluida para Windows, Linux y macOS.
-- **🔄 Actualizaciones Automáticas:** Integración directa con GitHub Releases para mantener la app al día.
-- **🌓 Modo Claro y Oscuro:** Interfaz adaptativa para una mejor experiencia visual del usuario.
 
 ---
 
-## 📥 Descargas
+## 🌎 Disponible en múltiples plataformas
 
-Puedes descargar la última versión estable directamente desde nuestro repositorio:
+Ecclesia está preparado para funcionar donde lo necesites:
 
-👉 **[Ver Últimas Releases](https://github.com/ketopi/Ecclesia-Desktop-App/releases)**
+| Sistema | Disponible |
+|---|---|
+| 🪟 Windows | ✅ |
+| 🐧 Linux | ✅ |
+| 🍎 macOS | ✅ |
 
----
-
-## 👤 Autor y Contacto
-
-Desarrollado con dedicación y profesionalismo por **Kevin Torrez Pillco** 🚀
-
-- 📱 **WhatsApp:** [Escríbeme por WhatsApp](https://wa.me/63945700)
 
 ---
 
-<p align="center">
-  <i>Desarrollado para transformar y digitalizar la gestión parroquial.</i>
-</p>
+## 🚀 Evolucionando la gestión parroquial
+
+Ecclesia nace con una visión:
+
+> "Llevar la organización parroquial a una nueva etapa mediante tecnología simple, moderna y accesible."
+
+Una herramienta pensada para facilitar el trabajo administrativo y ofrecer una experiencia agradable a quienes dedican su tiempo al servicio de la comunidad.
+
+
+---
+
+## 📱 ¿Necesitas más información?
+
+¿Quieres conocer más sobre Ecclesia, solicitar información o ponerte en contacto?
+
+Desarrollado con dedicación y profesionalismo por:
+
+## 👤 Kevin Torrez Pillco
+
+💬 WhatsApp:
+
+<a href="https://wa.me/59163945700">
+Contactar por WhatsApp
+</a>
+
+
+---
+
+<div align="center">
+
+✨ Ecclesia Desktop  
+Transformando y digitalizando la gestión parroquial.
+
+</div>
