@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<img src="./img1.jpg" alt="Ecclesia Desktop App" width="400"/>
-<img src="./img2.jpg" alt="Ecclesia Desktop App" width="400"/>
+<img src="./Ecclesia1.png" alt="Ecclesia Desktop App" width="400"/>
+<img src="./Ecclesia2.png" alt="Ecclesia Desktop App" width="400"/>
 
 <br/>
 
