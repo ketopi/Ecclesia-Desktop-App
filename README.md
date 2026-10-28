@@ -1,44 +1,36 @@
-# ✨ Ecclesia Desktop
-
 <div align="center">
 
-<img src="./Ecclesia1.png" alt="Ecclesia Desktop App" width="400"/>
-<img src="./Ecclesia2.png" alt="Ecclesia Desktop App" width="400"/>
+<img src="./Ecclesia1.png" alt="Fidara Desktop App" width="400"/>
+<img src="./Ecclesia2.png" alt="Fidara Desktop App" width="400"/>
 
 <br/>
 
-<h2>⛪ Sistema Moderno de Gestión Parroquial</h2>
+# ✨ Fidara
+
+**Gestión parroquial con confianza.**
 
 <p>
-Una aplicación de escritorio creada para acompañar la transformación digital de las comunidades parroquiales,
-brindando una experiencia moderna, organizada y sencilla para la gestión diaria.
+El sistema de escritorio definitivo para la gestión parroquial. Diseñado para funcionar de manera rápida, segura y <b>100% sin conexión a Internet</b>, cuidando la confidencialidad de los registros de tu parroquia.
 </p>
+
+<!-- Métricas y Estado del Proyecto -->
+[![Última Versión](https://img.shields.io/github/v/release/ketopi/Ecclesia-Desktop-App?label=Versi%C3%B3n%20Actual&color=blue&style=for-the-badge)](https://github.com/ketopi/Ecclesia-Desktop-App/releases/latest)
+[![Descargas Totales](https://img.shields.io/github/downloads/ketopi/Ecclesia-Desktop-App/total?label=Descargas&color=green&style=for-the-badge)](https://github.com/ketopi/Ecclesia-Desktop-App/releases)
+![Windows](https://img.shields.io/badge/SO-Windows%2010%2F11-0078D7?style=for-the-badge&logo=windows)
 
 <br/>
 
-<a href="https://github.com/ketopi/Ecclesia-Desktop-App/releases">
-  📥 Descargar Ecclesia
-</a>
+### [ 📥 Descargar la última versión para Windows ](https://github.com/ketopi/Ecclesia-Desktop-App/releases/latest)
+
+<sub>Al instalar, Windows podría mostrar una advertencia de seguridad. Haz clic en "Más información" y luego en "Ejecutar de todas formas".</sub>
 
 </div>
 
 ---
 
-## 🌎 Disponible en múltiples plataformas
-
-Ecclesia está preparado para funcionar donde lo necesites:
-
-| Sistema | Disponible |
-|---|---|
-| 🪟 Windows | ✅ |
-| 🐧 Linux | ✅ |
-| 🍎 macOS | ✅ |
-
----
-
 ## 🧩 Módulos y Funcionalidades
 
-Ecclesia está diseñado con una arquitectura modular para cubrir todas las áreas críticas de la parroquia:
+Fidara está diseñado con una arquitectura modular para cubrir todas las áreas críticas de la parroquia:
 
 ### 📊 Panel de Control (Dashboard)
 - **Estadísticas en tiempo real:** Resumen visual de feligreses, sacramentos del año y balance financiero.
@@ -47,7 +39,7 @@ Ecclesia está diseñado con una arquitectura modular para cubrir todas las áre
 
 ### 🏛️ Gestión de la Parroquia
 - **Datos Institucionales:** Configuración de la parroquia, jurisdicción, datos de contacto y párroco actual.
-- **Sacerdotes:** Registro de ministros ordenados con sus tratamientos eclesiásticos (Presbítero, Monseñor, etc.).
+- **Sacerdotes:** Registro de ministros ordenados con sus tratamientos eclesiásticos.
 - **Catequistas:** Directorio de catequistas activos.
 
 ### 👥 Feligreses y Personas
@@ -57,22 +49,19 @@ Ecclesia está diseñado con una arquitectura modular para cubrir todas las áre
 ### 🕊️ Sacramentos
 - **Bautizos:** Registro completo con libro, folio, acta, datos de padres y padrinos.
 - **Matrimonios:** Registro detallado con datos de los contrayentes, testigos, parroquia de celebración y acta.
-- **Catequesis (Primera Comunión y Confirmación):** 
-  - Creación de grupos y asignación de catequistas.
-  - Inscripción de integrantes.
-  - Control de actas de sacramento individuales por alumno.
+- **Catequesis (Primera Comunión y Confirmación):** Creación de grupos, asignación de catequistas, inscripción y control de actas de sacramento individuales.
 
 ### 📜 Generación de Certificados
-- **Documentos Oficiales:** Generación de certificados en PDF con formato oficial (A4/Carta, bordes, firmas y sello) para Bautizos, Primera Comunión, Confirmación y Matrimonios.
+- **Documentos Oficiales:** Generación de certificados en PDF con formato oficial (A4/Carta, bordes, firmas y sello) para todos los sacramentos.
 - **Impresión Masiva:** Generación de certificados grupales para entregar a todos los alumnos de un grupo en un solo PDF.
 
 ### 💰 Gestión Financiera
 - **Control de Caja:** Registro de ingresos y gastos con categorías y comprobantes.
-- **Soporte Multi-moneda:** Manejo de montos en Bolivianos (BOB) con tipo de cambio.
+- **Soporte Multi-moneda:** Manejo de montos con tipo de cambio.
 - **Adjuntar Comprobantes:** Almacenamiento local seguro de imágenes o PDFs de facturas.
 
 ### 🛡️ Seguridad y Respaldo (Backup & Restore)
-- **Copias de Seguridad:** Exportación de toda la base de datos y comprobantes en un archivo `.zip` seguro.
+- **Copias de Seguridad:** Exportación de toda la base de datos y comprobantes en un archivo `.zip` seguro y cifrado.
 - **Restauración:** Recuperación total del sistema en caso de fallos o migración de equipos.
 - **Roles de Usuario:** Control de acceso para Administradores y Secretarios.
 
@@ -80,7 +69,7 @@ Ecclesia está diseñado con una arquitectura modular para cubrir todas las áre
 
 ## 🚀 Evolucionando la gestión parroquial
 
-Ecclesia nace con una visión:
+Fidara nace con una visión:
 
 > "Llevar la organización parroquial a una nueva etapa mediante tecnología simple, moderna y accesible."
 
@@ -88,29 +77,15 @@ Una herramienta pensada para facilitar el trabajo administrativo y ofrecer una e
 
 ---
 
-## 📱 ¿Necesitas más información?
+## 👤 Desarrollado por
 
-¿Quieres conocer más sobre Ecclesia, solicitar información o ponerte en contacto?
+**KETOR Technologies**  
+Kevin Torrez Pillco
 
-Desarrollado con dedicación y profesionalismo por:
-
-## 👤 Kevin Torrez Pillco
-
-💬 WhatsApp:
-
-<a href="https://wa.me/59163945700">
-Contactar por WhatsApp
-</a>
+💬 ¿Necesitas soporte o más información?  
+[Contactar por WhatsApp](https://wa.me/59164892528)
 
 ---
-![Descargas Totales](https://img.shields.io/github/downloads/ketopi/Ecclesia-Desktop-App/total?label=Descargas&color=blue)
-![Última Versión](https://img.shields.io/github/v/release/ketopi/Ecclesia-Desktop-App?label=Versión&color=green)
-
----
-
 <div align="center">
-
-✨ Ecclesia Desktop  
-Transformando y digitalizando la gestión parroquial.
-
+  <sub>Fidara — Confianza que se nota en cada registro.</sub>
 </div>
