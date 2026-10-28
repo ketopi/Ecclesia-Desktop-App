@@ -103,7 +103,8 @@ Contactar por WhatsApp
 </a>
 
 ---
-
+![Descargas Totales](https://img.shields.io/github/downloads/ketopi/Ecclesia-Desktop-App/total?label=Descargas&color=blue)
+![Última Versión](https://img.shields.io/github/v/release/ketopi/Ecclesia-Desktop-App?label=Versión&color=green)
 
 ---
 
